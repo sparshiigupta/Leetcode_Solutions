@@ -12,4 +12,4 @@
 
 5. [Binary tree level order traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
-
+6. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
